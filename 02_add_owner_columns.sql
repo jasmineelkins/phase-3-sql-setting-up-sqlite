@@ -1,0 +1,4 @@
+ALTER TABLE cats ADD COLUMN owner TEXT;
+
+ALTER TABLE dogs ADD COLUMN owner TEXT;
+
